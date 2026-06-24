@@ -1,16 +1,37 @@
-## Hi there 👋
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQ37xNYBUCWSsDQjdCmGC_bbamrIGj0OBQchhzezTGw&s=10 
 
-<!--
-**zx400M/zx400M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Miguel de Rossi
 
-Here are some ideas to get you started:
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC VAV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+
+Atualmente, estou desenvolvendo conhecimentos em programação, banco de dados e desenvolvimento de software, buscando aplicar a teoria em projetos práticos e fortalecer minha formação na área de tecnologia.
+
+## Áreas de Interesse
+
+- Desenvolvimento de Software
+- Banco de Dados
+- Desenvolvimento Web
+- Tecnologia da Informação
+
+## Competências
+
+- Lógica de Programação
+- SQL
+- Git e GitHub
+- Modelagem de Dados
+- HTML e CSS
+
+## Objetivos
+
+Meu objetivo é aprimorar continuamente minhas habilidades técnicas, adquirir experiência por meio de projetos e construir uma base sólida para minha carreira na área de tecnologia.
+
+## Projetos
+
+Este perfil reúne projetos acadêmicos, atividades práticas e estudos desenvolvidos ao longo da minha formação em Desenvolvimento de Sistemas.
+
+---
+
+**Miguel de Rossi**  
+Estudante de Desenvolvimento de Sistemas | ETEC VAV
