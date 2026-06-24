@@ -1,6 +1,7 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQ37xNYBUCWSsDQjdCmGC_bbamrIGj0OBQchhzezTGw&s=10 
-
-# Miguel de Rossi
+<a href="https://github.com/zx400M">
+  <img src="homem aranha" width="200" alt="Foto de perfil">
+<a/>
+  # Miguel de Rossi
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC VAV.
 
