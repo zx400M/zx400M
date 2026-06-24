@@ -1,5 +1,5 @@
 <a href="https://github.com/zx400M">
-  <img src="homem aranha" width="200" alt="Foto de perfil">
+  <img src="homem aranha.jpg" width="200" alt="Foto de perfil">
 <a/>
   # Miguel de Rossi
 
